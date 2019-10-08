@@ -11,6 +11,7 @@
  
  */
 // Type the code below this line...
+var x: Int?
+var y: Int?
 
-
-//: [Next](@next)
+x! * y!
